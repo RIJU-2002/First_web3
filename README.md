@@ -11,3 +11,6 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+
+deployed using netlify(Careful before using the metamask account):-
+https://chai-fr-me.netlify.app/
